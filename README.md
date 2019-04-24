@@ -1,2 +1,0 @@
-# sniko
-SNIKO BOTER
