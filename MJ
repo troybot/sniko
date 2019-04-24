@@ -1,0 +1,3 @@
+killall screen
+screen ./MOJ.sh
+echo -e "MOJ IS RUN BOT"
